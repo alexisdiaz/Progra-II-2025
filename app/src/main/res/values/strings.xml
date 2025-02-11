@@ -1,3 +1,95 @@
 <resources>
     <string name="app_name">miPrimeraAplicacion</string>
+
+    <string-array name="monedas">
+        <item>Dólar (USD)</item>
+        <item>Euro (EUR)</item>
+        <item>Peso Mexicano (MXN)</item>
+        <item>Colon Sv (Colon SV)</item>
+        <item>Real Brasileño (BRL)</item>
+        <item>Peso Colombiano (COP)</item>
+        <item>Dólar Canadiense (CAD)</item>
+        <item>Dólar Australiano (AUD)</item>
+        <item>Libra Esterlina (GBP)</item>
+        <item>Yen Japonés (JPY)</item>
+    </string-array>
+
+    <string-array name="longitud">
+        <item>Metro (m)</item>
+        <item>Centímetro (cm)</item>
+        <item>Pulgada (in)</item>
+        <item>Pie (ft)</item>
+        <item>Kilómetro (km)</item>
+        <item>Milla (mi)</item>
+        <item>Yarda (yd)</item>
+        <item>Milímetro (mm)</item>
+        <item>Micrómetro (µm)</item>
+        <item>Nanómetro (nm)</item>
+    </string-array>
+
+    <string-array name="tiempo">
+        <item>Segundo (s)</item>
+        <item>Minuto (min)</item>
+        <item>Hora (h)</item>
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Año</item>
+        <item>Milisegundo (ms)</item>
+        <item>Microsegundo (µs)</item>
+        <item>Nanosegundo (ns)</item>
+    </string-array>
+
+    <string-array name="almacenamiento">
+        <item>Byte (B)</item>
+        <item>Kilobyte (KB)</item>
+        <item>Megabyte (MB)</item>
+        <item>Gigabyte (GB)</item>
+        <item>Terabyte (TB)</item>
+        <item>Petabyte (PB)</item>
+        <item>Exabyte (EB)</item>
+        <item>Zettabyte (ZB)</item>
+        <item>Yottabyte (YB)</item>
+        <item>Brontobyte (BB)</item>
+    </string-array>
+
+    <string-array name="masa">
+        <item>Kilogramo (kg)</item>
+        <item>Gramo (g)</item>
+        <item>Libra (lb)</item>
+        <item>Onza (oz)</item>
+        <item>Tonelada (t)</item>
+        <item>Quilate (ct)</item>
+        <item>Stone (st)</item>
+        <item>Quintal</item>
+        <item>Arroba</item>
+        <item>Libra Troy</item>
+    </string-array>
+
+    <string-array name="volumen">
+        <item>Litro (L)</item>
+        <item>Mililitro (mL)</item>
+        <item>Onza Líquida (fl oz)</item>
+        <item>Taza (cup)</item>
+        <item>Pinta (pt)</item>
+        <item>Cuarto (qt)</item>
+        <item>Galón (gal)</item>
+        <item>Barril</item>
+        <item>Cucharada</item>
+        <item>Centímetro cúbico (cm³)</item>
+    </string-array>
+
+    <string-array name="transferencia">
+        <item>Bit por segundo (bps)</item>
+        <item>Byte por segundo (Bps)</item>
+        <item>Kilobit por segundo (Kbps)</item>
+        <item>Megabit por segundo (Mbps)</item>
+        <item>Gigabit por segundo (Gbps)</item>
+        <item>Terabit por segundo (Tbps)</item>
+        <item>Petabit por segundo (Pbps)</item>
+        <item>Exabit por segundo (Ebps)</item>
+        <item>Zettabit por segundo (Zbps)</item>
+        <item>Yottabit por segundo (Ybps)</item>
+    </string-array>
+
 </resources>
