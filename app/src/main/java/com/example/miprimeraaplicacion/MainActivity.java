@@ -102,7 +102,7 @@ class Conversores {
             {1, 0.0166667, 0.000277778, 0.00001157407407407407, 0.00000165343910817046, 0.000000386, 0.000000031,  1.000,  1.000000, 1.000000000}, // Tiempo (s, min, hr, día, semana, mes, año, milisegundo, microsegundo, nanosegundo)
             {1, 1024, 1048576, 1073741824, 1.0995e+12, 1.1259e+15, 1.1529e+18, 1.1806e+21, 1.2089e+24}, // Almacenamiento (B, KB, MB, GB, TB, PB, EB, ZB, YB, BB)
             {1, 1000, 2.20462, 35.274, 0.001, 0.000157, 0.000984, 0.005, 0.002204, 0.035274}, // Masa (kg, g, lb, oz, tonelada, quilate, stone, quintal, arroba, libra troy)
-            {1, 1000, 33.814, 67.628, 16.907, 4.2268, 1.057, 0.2642, 0.0353, 0.001}, // Volumen (L, mL, fl oz, cup, pt, qt, gal, barril, cucharada, cm³)
+            {1, 0.001, 0.0295735, 0.236588, 0.473176, 0.946353, 0.264172, 158.987304, 66.666666666667, 0.001}, // Volumen (L, mL, fl oz, cup, pt, qt, gal, barril, cucharada, cm³)
             {1, 8, 1024, 1048576, 1073741824, 1.0995e+12, 1.1259e+15, 1.1529e+18, 1.1806e+21, 1.2089e+24} // Transferencia (bps, Bps, Kbps, Mbps, Gbps, Tbps, Pbps, Ebps, Zbps, Ybps)
     };
 
