@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">miPrimeraAplicacion</string>
+    <string name="app_name">Tienda</string>
+    <string name="add_product">Agregar Producto</string>
+    <string name="product_name">Nombre del producto</string>
+    <string name="product_price">Precio</string>
+    <string name="product_code">Código del producto</string>
+    <string name="product_description">Descripción</string>
+    <string name="product_brand">Marca</string>
+    <string name="product_presentation">Presentación</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="hint_buscar">Buscar producto</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="msg_ingrese_datos">Ingrese nombre y precio</string>
+    <string name="msg_producto_agregado">Producto agregado</string>
+    <string name="msg_producto_eliminado">Producto eliminado</string>
+    <string name="msg_producto_modificado">Producto modificado</string>
 </resources>
